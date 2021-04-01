@@ -12,6 +12,6 @@ Minha primeira API construida em NodeJs feita para aprender os conceitos de back
 
 * Pra integrar a API ao banco, foi usado a lib [node-postgres](https://node-postgres.com/)
 
-### Testes Unitários
+### Testes 
 
 * Pra realizar os testes foi utilizado o [jest](https://jestjs.io/pt-BR/)
